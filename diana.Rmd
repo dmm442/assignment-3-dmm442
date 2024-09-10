@@ -1,0 +1,21 @@
+---
+title: "Diana"
+author: "Diana"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## List of things about me
+
+
+* I'm a first-year Ph.D. Student in Plant Pathology & Plant-Microbe Biology
+    + I'm doing my first rotation in the Swingle Lab researching soft rot genetic resistance in potato
+* I adopted my kitten Clover the weekend before school started
+    + She's currently excelling at her Ph.D. in napping
+* I grew up on my family's corn and soybean farm in Iowa
+    + I have a B.S. in Microbiology & International Agriculture from Iowa State University
+

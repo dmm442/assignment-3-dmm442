@@ -1,0 +1,24 @@
+---
+title: "Our Website for Assignment 3"
+author: "Diana"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is our website!
+
+### Creators:
+
+#### Diana | <https://github.com/dmm442>
+
+#### Cam | <https://github.com/camdavi>
+
+![Here is a picture of Diana's kitten, Clover](/Users/dianamulder/Downloads/IMG_3718.jpg)
+
+
+
+
