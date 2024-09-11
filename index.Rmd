@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cam | <https://github.com/camdavi>
 
-![Here is a picture of Diana's kitten, Clover](/Users/dianamulder/Downloads/IMG_3718.jpg)
+![Here is a picture of Diana's kitten, Clover](/Users/dianamulder/Downloads/IMG_3835.jpg)
 
 
 

@@ -7,3 +7,9 @@ navbar:
       href: diana.html
     - text: "Cam"
       href: cam.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true 
+    toc_float: true
