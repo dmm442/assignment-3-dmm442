@@ -1,0 +1,21 @@
+---
+title: "Cam"
+author: "Cam"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+All about me:
+
+* I am a first-year master's student in Natural Resources and the Environment
+  + Concentration in Fishery and Aquatic Science
+ 
+* I grew up in Dansville, NY and have lived in Syracuse, NY with my partner since 2019
+  + We bought our first house in 2022
+ 
+* I received my B.A. in environmental science from Wells College 
+  + I was a goalie on the men's soccer team 
